@@ -1,0 +1,31 @@
+(a) Waterfall: As we have to make a simple data processing project, we can use the Waterfall model for that as our requirements are well-defined
+    and the Waterfall model is suitable for simple projects.
+
+(b) Prototyping: As we have to make our project user-friendly, client interaction (feedback) is very much important. So, we can use the Prototyping
+    model or the Evolutionary model.
+
+(c) Incremental: As we need many features that can be implemented using basic features, we can use the Incremental model. First, we can implement 
+    basic features and then we can add more features that use these basic features.
+
+(d) Agile: As requirements are changing fast, and an in-house development team is available for all aspects of the project, we can definitely use 
+    the Agile model here.
+
+(e) Agile: As we need frequent new releases of our website, we can certainly use the Agile model.
+
+(f) Spiral: The Spiral model will be suitable for this project as it emphasizes on risk assessment.
+
+(g) Evolutionary: Virtual reality systems require continuous improvement and adaptation to evolving maintenance needs, the Evolutionary model 
+    will be the best fit for this project.
+
+(h) Incremental: We can use the Incremental model as we need to replace an existing system and the Incremental model is the best choice for that.
+
+(i) Incremental: As we need an interactive system, using the incremental model will be a good idea as it accommodates regular feedback from stakeholders.
+
+(j) Spiral: The Spiral model focuses on risk assessment which is the major part in our project that needs to be considered.
+
+(k) Agile: Agile model is highly suited for these kinds of emergencies where we need quick responses to changing requirements.
+
+(l) Spiral: We can use the Spiral model here because it is best suited where potential risks can have serious consequences.
+
+(m) Waterfall: As there won’t be any change in requirements, we can use the Waterfall model for this project as it is best suited for the projects 
+    where the requirements are well-understood and there can be minimal changes.
